@@ -4,7 +4,7 @@
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h1 align="center"> MR.NIKI</h1>
+<h1 align="center"> MR.AGB</h1>
 
 <h2 align="center"> LOGIN WITH FACEBOOK COOKIES </h2>
 
@@ -26,7 +26,7 @@ $ pip install bs4
 $ pip install rich
 $ pkg install git
 $ rm -rf Crack-Pro
-$ git clone https://github.com/Niki404-Cyber/Crack-Pro.git
+$ git clone https://github.com/mragb44/justhacknini.git
 $ cd Crack-Pro
 $ python Crack.py
 
@@ -37,10 +37,10 @@ Note: (This Tools is Paid, So Need Permission To Use MrAGB Crack-Pro Tools)
 
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ; pkg install git ; pip install bs4 ; pip install rich ; rm -rf Crack-Pro ; git clone https://github.com/Niki404-Cyber/Crack-Pro.git ; cd Crack-Pro; python Crack.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ; pkg install git ; pip install bs4 ; pip install rich ; rm -rf Crack-Pro ; git clone https://github.com/mragb44/justhacknini.git ; cd Crack-Pro; python Crack.py
 
 ```
  
- Note: (This Tools Are Paid, So No Need Permission To Use MR AGB Crack-Pro Tools )</br>
- [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
+ Note: (This Tools Are Paid, So Need Permission To Use MR AGB Crack-Pro Tools )</br>
+ [![Facebook](https://img.shields.io/badge/Facebook-Mr.AGB-blue?style=flat-square&logo=facebook)](https://www.facebook.com/mragb44)</br>
  [CODED BY Mr. MR AGB]

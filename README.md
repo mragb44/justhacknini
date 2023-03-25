@@ -27,7 +27,7 @@ $ pip install rich
 $ pkg install git
 $ rm -rf Crack-Pro
 $ git clone https://github.com/mragb44/justhacknini.git
-$ cd Crack-Pro
+$ cd justhacknini
 $ python Crack.py
 
 Note: (This Tools is Paid, So Need Permission To Use MrAGB Crack-Pro Tools)

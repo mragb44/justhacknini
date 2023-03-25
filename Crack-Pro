@@ -2,7 +2,7 @@ import os, platform
 try:
     import requests
 except:
-    os.system('pip2 install requests')
+    os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 
 import requests
 bit = platform.architecture()[0]
